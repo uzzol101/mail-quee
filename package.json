@@ -1,0 +1,14 @@
+{
+  "name": "mail_queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bee-queue": "^1.2.2",
+    "dotenv": "^6.0.0",
+    "nodemailer": "^4.6.7"
+  }
+}
